@@ -1,8 +1,4 @@
 ﻿//CREE DES FICHIER GED ET UNE BDD
-using BREBDD.Modèle.Ecopilote;
-using BREBDD.Modèle.Hermes;
-using BREBDD.Services;
-using BREBDD.Services.Hermes;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;

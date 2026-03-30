@@ -1,5 +1,4 @@
-﻿using BREBDD.Services;
-using Gelf.Extensions.Logging;
+﻿using Gelf.Extensions.Logging;
 using GestionPurge.Main;
 using GestionPurge.Main.Plannification;
 using Microsoft.Extensions.DependencyInjection;

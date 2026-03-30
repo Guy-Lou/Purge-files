@@ -1,6 +1,4 @@
-﻿using BREBDD.Services;
-using BREBDD.Services.Hermes;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 namespace GestionPurge.Main;
