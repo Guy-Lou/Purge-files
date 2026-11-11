@@ -67,7 +67,8 @@ Le programme est entièrement configurable via un fichier JSON.
             "LogSource": "GestionPurge"
         }
     }
-}```
+}
+```
 
 ## Description des paramètres
 
